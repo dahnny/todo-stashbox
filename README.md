@@ -8,7 +8,7 @@ switch to the browser and navigate to http://localhost:19006/ or use an iphone o
 
 ## Backend
 To install this application, run the following command:
-```cd into the frontend folder and run npm install```   
+```cd into the backend folder and run npm install```   
 # Usage
 run the following command to start the server:
 ```node index.js```
