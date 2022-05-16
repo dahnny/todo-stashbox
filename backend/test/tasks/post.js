@@ -13,6 +13,11 @@ describe("POST /task", () => {
         done();
       });
   });
+  after(function (done){
+    mongoose.connection.db.dropCollection('tasks',function(){
+      done();
+    });
+  })
 
   it("Create new task", (done) => {
     request(app)
