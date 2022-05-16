@@ -16,5 +16,5 @@ run the following command to start the server:
 switch to the browser and navigate to http://localhost:3264/
 
 The following endpoints are available:
- tasks: GET, POST - create and get list of tasks
-tasks/:id: PUT, DELETE -  update, delete a task
+- tasks: GET, POST - create and get list of tasks
+- tasks/:id: PUT, DELETE -  update, delete a task
