@@ -1,1 +1,1 @@
-export const BASE_URL = "https://todo-stashbox.herokuapp.com/";
+export const BASE_URL = "https://todo-stashbox.herokuapp.com";
